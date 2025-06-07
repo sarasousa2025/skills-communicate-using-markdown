@@ -6,7 +6,7 @@
 
 -[Convert my first blog post into an actual webpage] 
 
-![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" style="float: right;">
 
 ## Review
 ```
